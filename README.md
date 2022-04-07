@@ -12,4 +12,4 @@
 - [Robot Framework](https://robotframework.org/)
 
 ## Execução dos testes:
-`robot -d ./logs tests'`
+`robot -d ./logs tests/example.robot'`

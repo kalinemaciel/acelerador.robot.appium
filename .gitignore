@@ -1,0 +1,6 @@
+# O gitignore é usado para você não versionar arquivos desnecessários do projeto.
+
+# Exemplos ed arquivos desnecessários: 
+# logs/      
+# app/      
+# node_modules

@@ -1,0 +1,11 @@
+{
+    "valido": {
+        "username": "exemplo@qa.com",
+        "password": "senha@123"
+    },
+
+    "invalido": {
+        "username": "exemploinvalido@qa.com",
+        "password": "senhainvalida@123"
+    }
+}
