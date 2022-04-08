@@ -1,0 +1,6 @@
+Na pasta logs ficam os reports da automação
+
+screenchots
+log.html
+output.xml
+report.html

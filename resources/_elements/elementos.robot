@@ -10,7 +10,7 @@ Documentation           Arquivo com os elementos da aplicação para serem usado
 # class=UIAPickerWheel
 # name=my_element
 
-***Variables***
+***Variables*** 
 
 ${BTN_LOGIN}            accessibility_id=login_button
 ${CAMPO_USUARIO}        xpath=//android.view.ViewGroup[@content-desc="usuario_content"]/android.view.ViewGroup[1]

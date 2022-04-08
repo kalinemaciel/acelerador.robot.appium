@@ -1,5 +1,7 @@
 ***Settings***
 
+Documentation       Passos de exemplo de login na aplicação
+
 Resource            ../_elements/elementos.robot
 Resource            ../support/base.robot
 

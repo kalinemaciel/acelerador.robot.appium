@@ -1,6 +1,6 @@
 ***Settings***
 
-Documentation       Cenários de login
+Documentation       Cenário de exemplo
 
 Resource            ../resources/support/base.robot
 
